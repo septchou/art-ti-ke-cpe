@@ -18,7 +18,7 @@ Art-ti-ke เป็นเว็บไซต์ที่ให้บริกา�
 ### Navigation Map
 ![image](https://github.com/user-attachments/assets/313befd2-e5c0-4872-badb-3cbd6fe19749)
 
-### User Case Diagram
+### Use Case Diagram
 ![Screenshot 2025-03-26 010430](https://github.com/user-attachments/assets/c99f3a22-2f85-44df-9ce5-135e053f762e)
 ![Screenshot 2025-03-26 010515](https://github.com/user-attachments/assets/91800b1e-bd11-4e05-a67c-74e33607df1a)
 
